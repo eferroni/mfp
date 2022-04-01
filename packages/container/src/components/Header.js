@@ -79,7 +79,7 @@ export default function Header({ isSignIn, onSignOut }) {
             component={RouterLink}
             to="/"
           >
-            App MFP
+            App - MFP
           </Typography>
           <Button
             color="primary"
