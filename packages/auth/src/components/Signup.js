@@ -114,7 +114,7 @@ export default function SignUp({ onSignIn }) {
             <Grid item xs={12}>
               <FormControlLabel
                 control={<Checkbox value="allowExtraEmails" color="primary" />}
-                label="I want to receive inspiration, marketing promotions and updates via email."
+                label="I want to receive inspiration, marketing promotions via email."
               />
             </Grid>
           </Grid>
